@@ -1,0 +1,29 @@
+[
+    {
+		"name": "T-34",
+        "uniqueTo": "Soviet Union",
+        "replaces": "Tank",
+		"unitType": "Armored",
+		"movement": 7,
+		"strength": 80,
+		"cost": 385,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Polish hussars",
+		"uniqueTo": "Poland",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"upgradesTo": "Pikeman",
+		"obsoleteTech": "Chivalry",
+
+		"movement": 4,
+		"strength": 38,
+
+		"uniques": ["Can move after attacking", "[0]% Chance to be destroyed by nukes", "[+33]% Strength <vs [Land] units>", "[+33]% Strength <vs [Sword] units> <when attacking>", "[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "tankshot"
+	}
+]

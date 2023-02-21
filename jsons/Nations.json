@@ -1,0 +1,51 @@
+[{
+    "name":"Soviet Union",
+    "leaderName": "Stalin",
+    "startBias": ["Tundra"],
+
+    "startIntroPart1": "You are the head of the CPSU",
+	"startIntroPart2": "Promote your nation to true socialism, do not let the bourgeoisie take over the whole world!!!",
+
+    "outerColor": [51, 0, 0],
+    "innerColor": [178, 63, 63],
+
+    "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Nizhny Novgorod","Omsk","Velikiy Novgorod","Kiev","Sevastopol","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
+    "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Ryazan", "Novgorod", "Simpheropol", "Petropalovsk Cumchatskiy"],
+
+    "neutralHello": "Hello, would you like to join the union?",
+    "hateHello": "What do YOU want from us!?",
+
+    "tradeRequest": "I have an offer for you",
+
+    "declaringWar": "You did not want to join the union voluntarily, Now we will force you to join by force",
+    "attacked": "Would you like to join us?",
+    "defeated": "You are worthy of taking care of the union",
+
+    "uniques": ["[-1 Faith] per [4] population [in all cities]","[+1 Production] per [5] population [in all cities]","[+1 Science] per [5] population [in all cities]","","Starts with [Mining]"]
+},
+{
+    "name":"Poland",
+    "leaderName": "Stalin",
+    "startBias": ["Tundra"],
+
+    "startIntroPart1": "You are the head of the CPSU",
+	"startIntroPart2": "Promote your nation to true socialism, do not let the bourgeoisie take over the whole world!!!",
+
+    "outerColor": [51, 0, 0],
+    "innerColor": [178, 63, 63],
+
+    "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Nizhny Novgorod","Omsk","Velikiy Novgorod","Kiev","Sevastopol","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
+    "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Ryazan", "Novgorod", "Simpheropol", "Petropalovsk Cumchatskiy"],
+
+    "neutralHello": "Hello, would you like to join the union?",
+    "hateHello": "What do YOU want from us!?",
+
+    "tradeRequest": "I have an offer for you",
+
+    "declaringWar": "You did not want to join the union voluntarily, Now we will force you to join by force",
+    "attacked": "Would you like to join us?",
+    "defeated": "You are worthy of taking care of the union",
+
+    "uniques": ["[-1 Faith] per [4] population [in all cities]","[+1 Production] per [5] population [in all cities]","[+1 Science] per [5] population [in all cities]","","Starts with [Mining]"]
+}
+]

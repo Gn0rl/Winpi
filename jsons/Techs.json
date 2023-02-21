@@ -1,0 +1,34 @@
+
+[
+	{
+		"columnNumber": 5,
+		"era": "Medieval era",
+		"techCost": 275,
+		"buildingCost": 120,
+        "wonderCost": 300,
+        "techs": [
+			{
+                "name": "Feudality",
+                "row": 8,
+                "prerequisites": ["Engineering"],
+                "quote": ""
+			}
+		]
+	},
+    {
+        "columnNumber": 6,
+		"era": "Medieval era",
+		"techCost": 485,
+		"buildingCost": 160,
+		"wonderCost": 400,
+        "techs": [
+            {
+                "name": "Machinery",
+                "row": 8,
+                "prerequisites": ["Guilds","Feudality"],
+                "uniques": ["Improves movement speed on roads"],
+                "quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+            }
+        ]
+    }
+]

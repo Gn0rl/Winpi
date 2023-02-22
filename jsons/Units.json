@@ -21,11 +21,12 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Railroads",
 		"cost": 225,
+		"requiredResource": "Horses",
 
 		"movement": 4,
 		"strength": 38,
 
 		"uniques": ["Can move after attacking","[+33]% Strength <vs [Land] units>", "[-33]% Strength <vs cities> <when attacking>"],
-		"attackSound": "tankshot"
+		"attackSound": "horse"
 	}
 ]

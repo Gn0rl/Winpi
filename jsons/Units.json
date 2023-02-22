@@ -13,11 +13,12 @@
 		"attackSound": "tankshot"
 	},
 	{
-		"name": "Polish hussars",
+		"name": "Hussaria",
 		"uniqueTo": "Poland",
 		"replaces": "Cavalry",
 		"unitType": "Mounted",
 		"upgradesTo": "Artillery",
+		"requiredTech": "Military Science",
 		"obsoleteTech": "Railroads",
 		"cost": 225,
 

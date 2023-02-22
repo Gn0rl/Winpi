@@ -25,14 +25,14 @@
 },
 {
     "name":"Poland",
-    "leaderName": "Stalin",
-    "startBias": ["Tundra"],
+    "leaderName": "Jan II Kazimierz",
+    "startBias": ["Plains"],
 
-    "startIntroPart1": "You are the head of the CPSU",
-	"startIntroPart2": "Promote your nation to true socialism, do not let the bourgeoisie take over the whole world!!!",
+    "startIntroPart1": "",
+	"startIntroPart2": "",
 
-    "outerColor": [51, 0, 0],
-    "innerColor": [178, 63, 63],
+    "outerColor": [186, 110, 9],
+    "innerColor": [255, 248, 36],
 
     "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Nizhny Novgorod","Omsk","Velikiy Novgorod","Kiev","Sevastopol","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
     "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Ryazan", "Novgorod", "Simpheropol", "Petropalovsk Cumchatskiy"],

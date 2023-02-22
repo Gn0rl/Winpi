@@ -15,15 +15,15 @@
 	{
 		"name": "Polish hussars",
 		"uniqueTo": "Poland",
-		"replaces": "Horseman",
+		"replaces": "Cavalry",
 		"unitType": "Mounted",
-		"upgradesTo": "Pikeman",
-		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Railroads",
 
 		"movement": 4,
 		"strength": 38,
 
-		"uniques": ["Can move after attacking", "[0]% Chance to be destroyed by nukes", "[+33]% Strength <vs [Land] units>", "[+33]% Strength <vs [Sword] units> <when attacking>", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","[+33]% Strength <vs [Land] units>", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	}
 ]

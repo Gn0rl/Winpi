@@ -37,14 +37,14 @@
     "cities": ["Warsaw","Krakow","Katowice","Lodz","Sosnowiec","Wroclaw","Poznan","Gdansk","Szczecin","Bydgoszcz","Lublin","Bialystok","Gdynia","Czestochowa","Radom",
     "Kielce","Gliwice","Olsztyn","Zabrze","Bielsko-Biala","Bytom", "Zielona Gora", "Rybnik", "Ruda Slaska", "Opole"],
 
-    "neutralHello": "Hello, would you like to join the union?",
-    "hateHello": "What do YOU want from us!?",
+    "neutralHello": "Do you like Poland?",
+    "hateHello": "KURWA say FASTER!",
 
     "tradeRequest": "I have an offer for you",
 
     "declaringWar": "You did not want to join the union voluntarily, Now we will force you to join by force",
-    "attacked": "Would you like to join us?",
-    "defeated": "You are worthy of taking care of the union",
+    "attacked": "Are you KURWA!?",
+    "defeated": "OK",
 
     "uniques": ["[-1 Faith] per [4] population [in all cities]","[+1 Production] per [5] population [in all cities]","[+1 Science] per [5] population [in all cities]","","Starts with [Mining]"]
 }

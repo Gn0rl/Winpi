@@ -46,6 +46,6 @@
     "attacked": "Are you KURWA!?",
     "defeated": "OK",
 
-    "uniques": ["[-1 Faith] per [4] population [in all cities]","[+1 Production] per [5] population [in all cities]","[+1 Science] per [5] population [in all cities]","","Starts with [Mining]"]
+    "uniques": ["[+1 Science] per [5] population [in all cities]", "[+1 Food] [in all cities]","","Starts with [Pottery]"]
 }
 ]

@@ -19,6 +19,7 @@
 		"unitType": "Mounted",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Railroads",
+		"cost": 225,
 
 		"movement": 4,
 		"strength": 38,
